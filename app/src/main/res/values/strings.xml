@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">お気に入り店</string>
+    <string name="tv_shop_list">お気に入り店リスト</string>
+    <string name="btn_new">新規</string>
+    <string name="tv_shop_edit">店内容編集</string>
+    <string name="tv_shop_insert">店内容登録</string>
+    <string name="tv_input_shop">店名</string>
+    <string name="tv_input_note">メモ</string>
+    <string name="tv_input_tel">tel</string>
+    <string name="tv_input_url">url</string>
+    <string name="btn_save">更新</string>
+    <string name="btn_insert">登録</string>
+    <string name="btn_back">戻る</string>
+    <string name="btn_delete">削除</string>
+    <string name="msg_input_shop">店名を入力してください。</string>
+</resources>
